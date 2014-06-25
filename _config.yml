@@ -1,0 +1,11 @@
+# Site settings
+title: RISBIC Project
+email: no@no.no
+description: "Blog for the RISBIC (Reducing the Information Security Barrier in the Cloud) Project involving Arjuna Technologies, Red Hat and Newcastle University."
+baseurl: "http://risbic.github.io"
+url: "http://risbic.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
