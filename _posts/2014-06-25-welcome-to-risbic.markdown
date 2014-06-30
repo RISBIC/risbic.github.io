@@ -7,4 +7,4 @@ categories: risbic
 
 Welcome to the RISBIC project, this blog post is a place holder at the moment and content will be forthcoming as publicly available components become more production ready and/or documented.
 
-**Note:** Remember to use `io.github.risbic` as the package/organisation name for now.
+**Note:** Remember to use `org.risbic` as the package/organisation name.
